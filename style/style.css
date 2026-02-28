@@ -743,7 +743,7 @@ img {
 
 
 .slick-prev::before {
-    content: url(/images/reviews/left.jpg);
+    content: url(../images/reviews/left.jpg);
 }
 
 .slick-next {
@@ -751,7 +751,7 @@ img {
 }
 
 .slick-next::before {
-    content: url(/images/reviews/right.jpg);
+    content: url(../images/reviews/right.jpg);
 }
 
 .slick {
@@ -1174,5 +1174,6 @@ main {
     margin-top: 40px;
 
 }
+
 
 
