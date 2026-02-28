@@ -7,27 +7,27 @@
 
 @font-face {
     font-family: OpenSans;
-    src: url('/fonts/OpenSans-Regular.ttf');
+    src: url('fonts/OpenSans-Regular.ttf');
 }
 
 @font-face {
     font-family: Comfortaa;
-    src: url('/fonts/Comfortaa-Bold.ttf');
+    src: url('fonts/Comfortaa-Bold.ttf');
 }
 
 @font-face {
     font-family: PTSerif;
-    src: url('/fonts/PTSerif-Bold.ttf');
+    src: url('fonts/PTSerif-Bold.ttf');
 }
 
 @font-face {
     font-family: MyriadPro;
-    src: url('/fonts/myriadpro-regular.ttf');
+    src: url('fonts/myriadpro-regular.ttf');
 }
 
 @font-face {
     font-family: NotoSans;
-    src: url('/fonts/NotoSans_Condensed-Regular.ttf');
+    src: url('fonts/NotoSans_Condensed-Regular.ttf');
 }
 
 * {
@@ -1172,4 +1172,5 @@ main {
 
 .popap-order-thanks__btn {
     margin-top: 40px;
+
 }
