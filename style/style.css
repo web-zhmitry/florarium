@@ -7,27 +7,27 @@
 
 @font-face {
     font-family: OpenSans;
-    src: url('fonts/OpenSans-Regular.ttf');
+    src: url('../fonts/OpenSans-Regular.ttf');
 }
 
 @font-face {
     font-family: Comfortaa;
-    src: url('fonts/Comfortaa-Bold.ttf');
+    src: url('../fonts/Comfortaa-Bold.ttf');
 }
 
 @font-face {
     font-family: PTSerif;
-    src: url('fonts/PTSerif-Bold.ttf');
+    src: url('../fonts/PTSerif-Bold.ttf');
 }
 
 @font-face {
     font-family: MyriadPro;
-    src: url('fonts/myriadpro-regular.ttf');
+    src: url('../fonts/myriadpro-regular.ttf');
 }
 
 @font-face {
     font-family: NotoSans;
-    src: url('fonts/NotoSans_Condensed-Regular.ttf');
+    src: url('../fonts/NotoSans_Condensed-Regular.ttf');
 }
 
 * {
@@ -205,7 +205,7 @@ img {
 
 .main-block {
     position: relative;
-    background: url(images/bg/bg_1.png) center/cover no-repeat;
+    background: url(../images/bg/bg_1.png) center/cover no-repeat;
 }
 
 .main-block__content {
@@ -462,7 +462,7 @@ img {
 /*  */
 
 .promotion {
-    background: url(images/bg/bg_2.png) center/cover no-repeat;
+    background: url(../images/bg/bg_2.png) center/cover no-repeat;
     padding: 100px 0;
 }
 
@@ -951,7 +951,7 @@ main {
 }
 
 .popap__order-call {
-    background: url(images/order-call.png) center / cover no-repeat;
+    background: url(../images/order-call.png) center / cover no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1159,7 +1159,7 @@ main {
     padding: 90px 145px 236px;
     align-items: center;
     flex-direction: column;
-    background: url(images/bg/bg_3.png) center no-repeat;
+    background: url(../images/bg/bg_3.png) center no-repeat;
 }
 
 .popap-order-thanks__descr {
@@ -1174,4 +1174,5 @@ main {
     margin-top: 40px;
 
 }
+
 
